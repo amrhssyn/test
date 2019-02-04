@@ -17,4 +17,11 @@ class MainActivity : AppCompatActivity() {
         val b = 2
         var c = a + b
     }
+
+     private fun addSecond() {
+        val a = 4
+        val b = 5
+        var d = a + b
+    }
+
 }
